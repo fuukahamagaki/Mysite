@@ -34,7 +34,7 @@ header {
   color: #FAFAFA;
 }
 
-.main-visual {
+#main-visual {
   width: 100%;
   height: 650px;
   background-image: url(img/mv.png);
